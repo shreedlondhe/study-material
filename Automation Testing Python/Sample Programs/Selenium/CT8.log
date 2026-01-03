@@ -1,0 +1,9 @@
+2022-03-03 08:40:38,464 — Logger_Name — INFO — <module>:13 — LoggingForFacebook.py script execution has been started...
+2022-03-03 08:40:38,465 — Logger_Name — INFO — <module>:14 — initializing web driver for chrome
+2022-03-03 08:40:41,825 — Logger_Name — INFO — <module>:16 — initialized web driver for chrome
+2022-03-03 08:40:41,826 — Logger_Name — DEBUG — <module>:18 — opening webpage or url : https://www.facebook.com/
+2022-03-03 08:40:44,745 — Logger_Name — DEBUG — <module>:20 — opening webpage or url : https://www.facebook.com/
+2022-03-03 08:40:44,746 — Logger_Name — INFO — <module>:22 — Finding email element 
+2022-03-03 08:40:44,761 — Logger_Name — ERROR — <module>:35 — Error occurred in facebook test : Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="emaidl"]"}
+  (Session info: chrome=98.0.4758.102)
+

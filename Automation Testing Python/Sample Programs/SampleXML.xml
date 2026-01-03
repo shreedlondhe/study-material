@@ -1,0 +1,19 @@
+<CredenceClasses>
+    <TestingClass>
+        <SQL>Yusuf Sir</SQL>
+        <ETLBI>Tushar Sir</ETLBI>
+        <Python>Sagar Sir</Python>
+    </TestingClass>
+    <PythonClass>
+        <Python>Sagar Sir</Python>
+        <machineLearning>Sagar Sir</machineLearning>
+        <DataScience>Sagar Sir</DataScience>
+    </PythonClass>
+    <PythonClass>
+        <Python>Sagar Sir</Python>
+        <machineLearning>Sagar Sir</machineLearning>
+        <DataScience>Sagar Sir</DataScience>
+    </PythonClass>
+</CredenceClasses>
+
+
