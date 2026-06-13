@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    /* Project Structure */
+    "rootDir": "./TS_Files",
+    "outDir": "./dist",
+
+    /* Module System (IMPORTANT) */
+    "module": "commonjs",
+    "target": "es2020",
+
+    /* Type Support */
+    "types": ["node"],
+
+    /* Output */
+    "sourceMap": true,
+
+    /* Strictness */
+    "strict": true,
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true,
+
+    /* Performance */
+    "skipLibCheck": true
+  },
+
+  "include": ["TS_Files/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
+}
